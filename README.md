@@ -9,16 +9,12 @@
 API = https://nishant-bancheck.vercel.app/api/isbanned?uid={uid}
 
 YOUTUBE = youtube.nsgamming.xyz
-
 TELEGRAM = telegramgroup.nsgamming.xyz
-
 DM ME IN TG = telegram.nsgamming.xyz
-
 DISCORD = discord.nsgamming.xyz
-
 WHATSAPP = whatapp.nsgamming.xyz
 
 
 
 COMPLETE 100 LIKES FOR NEXT API GIVEAWAY🎁✨
-YOUTUBE VIDEO. DIDN'T WATCH GO AND WATCH FAST 🚴三
+YOUTUBE VIDEO. DIDN'T WATCH GO AND WATCH FAST 🚴
