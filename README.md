@@ -8,11 +8,11 @@
 
 API = https://nishant-bancheck.vercel.app/api/isbanned?uid={uid}
 
-YOUTUBE = youtube.nsgamming.xyz
-TELEGRAM = telegramgroup.nsgamming.xyz
-DM ME IN TG = telegram.nsgamming.xyz
-DISCORD = discord.nsgamming.xyz
-WHATSAPP = whatapp.nsgamming.xyz
+YOUTUBE = http://youtube.nsgamming.xyz
+TELEGRAM = http://telegramgroup.nsgamming.xyz
+DM ME IN TG = http://telegram.nsgamming.xyz
+DISCORD = http://discord.nsgamming.xyz
+WHATSAPP = http://whatapp.nsgamming.xyz
 
 
 
