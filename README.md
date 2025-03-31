@@ -18,6 +18,8 @@ TELEGRAM = http://telegramgroup.nsgamming.xyz
 
 DM ME IN TG = http://telegram.nsgamming.xyz
 
+TELEGRAM CHANNEL = http://telegramchannel.nsgamming.xyz
+
 DISCORD = http://discord.nsgamming.xyz
 
 WHATSAPP = http://whatapp.nsgamming.xyz
